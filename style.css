@@ -1,7 +1,7 @@
 body {
   background-color: rgb(131,157,207);
   color: rgb(33,47,61);
-  font-family: Georgia; serif
+  font-family: Helvetica; sans-serif
   font-size: 15px;
   letter-spacing: 0px;
   font-weight: 100;
@@ -27,7 +27,7 @@ h2 {
 a {
   text-decoration: none;
   color: black;
-  font-weight: bolder;
+  font-weight: 900;
   font-size: 18px;
 }
 a:hover {
@@ -49,8 +49,7 @@ a:hover {
   text-align: center;
 }
 
-.img-circle {
-    border-radius: 1px solid red;
+
 }
 
 .btn-blue {
